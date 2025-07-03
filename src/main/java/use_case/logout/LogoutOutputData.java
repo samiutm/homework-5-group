@@ -12,6 +12,7 @@ public class LogoutOutputData {
         // save the parameters in the instance variables.
         this.username = username;
         this.useCaseFailed = useCaseFailed;
+
     }
 
     public String getUsername() {
