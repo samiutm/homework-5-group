@@ -20,6 +20,8 @@ public class Main {
                                             .addSignupUseCase()
                                             .addLoginUseCase()
                                             .addChangePasswordUseCase()
+                                            // TODO completed; added the Logout Use Case to the app:
+                                            .addLogoutUseCase()
                                             .build();
 
         application.pack();
